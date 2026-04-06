@@ -1,0 +1,8 @@
+[package]
+name = "learning_1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.18.1"
+anyhow = "1.0.102"
